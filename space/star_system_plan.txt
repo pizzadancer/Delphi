@@ -1,0 +1,62 @@
+map()
+    sun()
+        burning ball of fire
+
+    mercury()
+        hot and cold yes and no
+
+    venus()
+        the planet of love and gas
+
+    earth()
+        so blue
+
+    mars()
+        red planet
+    
+    juptier()
+        gas giant
+
+    saturn()
+        rings of ice
+        
+    uranus()
+        ice giant I
+    
+    neptune()
+        ice giant II
+ 
+    pluto()
+        forgotten planet
+
+
+
+launch_pad()
+
+rocket()
+
+coffee()
+    a little side quest of brewing a cup of coffee
+    ---just got an idea to do a cafe---
+orbit()
+
+space()
+
+surface() // OOP 
+
+astronaut's chambers()
+    Look out window
+    map on the wall - can choose where the first mission will blue 
+    "I always wanted to go to dream_planet" = boss fight planet
+
+
+map
+    @ map launch map.html
+    let user pick which planet
+    whatever planet they choose, pass choice back to python
+    use planet function
+    Going to need AJAX/DJANGO + flask to pass variables
+    from Javascript to python or something
+
+https://pypi.org/project/black/
+Used Prettier for html formatter and have to change the default formatter

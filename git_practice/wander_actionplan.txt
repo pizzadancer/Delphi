@@ -1,0 +1,25 @@
+
+~Wander~
+
+
+Wake_up()
+    status()
+    
+
+my_bedroom()
+
+
+computer()
+
+bureau()
+
+door()
+
+status()
+    strength
+    money
+    intelligence
+    empathy
+
+    
+
